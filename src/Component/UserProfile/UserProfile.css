@@ -1,0 +1,33 @@
+.UserProfile{
+    height: 15rem;
+    width: 60rem;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    margin-left: 7rem;
+    margin-top: 5rem;
+    border-radius: 0.5rem;
+}
+
+.avatar{
+    margin-left: 7rem;
+}
+
+.user-details{
+    margin-top: 4rem;
+}
+
+.Booking{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    height: 30rem;
+    width:60rem;
+    margin-top: 4rem;
+    border-radius: 0.5rem;
+}
+
+.Booking-details{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    height: 10rem;
+    width: 30rem;
+    border-radius: 0.5rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}

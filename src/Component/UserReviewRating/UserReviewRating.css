@@ -1,0 +1,29 @@
+.Review-Rating-Card{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    padding: 2rem;
+    margin-top: 16.5rem;
+    width: 50rem;
+    margin-left: 13rem;
+    border-radius: 0.5rem;
+}
+
+.review-enter{
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.2);
+    padding: 3rem;
+    height: 4.5rem;
+}
+.rating-star{
+    margin-left: -2rem;
+    margin-top: -2rem;
+   
+}
+
+.review-list{
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.2);
+    padding: 3rem;
+    height: 4rem;
+    margin-top: 3rem;
+}
+
+
+

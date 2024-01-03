@@ -1,0 +1,49 @@
+.TopRated{
+    color: rgb(31, 30, 30);
+    background-color: rgb(236, 228, 228);
+    margin-bottom: 2rem;
+    height: 25rem;
+}
+
+.Card{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.Card::-webkit-scrollbar{
+    display: none;
+}
+
+.Card-image{
+    max-height: 300px;
+    margin-right: 2rem;
+    width: 210px;
+    border-radius: 0.5rem;
+    margin-block-start:-1rem;
+}
+
+.TopRate-name{
+    margin-block-start: -5rem;
+    margin-block-end: 3rem;
+    color: white;
+    margin-left: 1rem;
+}
+.TopRate-place{
+    margin-block-start: -3rem;
+    color: white;
+    margin-left: 1rem;
+
+}
+
+.TopRate-star{
+    margin-left: 1rem;
+    margin-block-start: -0.8rem;
+}
+
+.fade-bottum{
+    height: 7.4rem;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+
+}

@@ -1,0 +1,43 @@
+.Soccer{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.select-court{
+    margin-left: 2rem;
+}
+
+.label-color{
+    color: black;
+    font-weight: 600;
+}
+.Pick-date{
+    margin-left: 4rem;
+    margin-top: 2rem;
+    width: 12rem;
+}
+
+
+.pay-button{
+    background-color:rgb(5,185,97);
+    height: 2.5rem;
+    width: 14rem;
+    color:white;
+    border: none;
+    outline: none;
+    border-radius: 1rem;
+    margin-left: 50rem;
+    margin-top: 1.5rem;
+    cursor: pointer;
+}
+.Pick-time{
+    margin-left: 0rem;
+    margin-top: 2rem;
+    width: 12rem;
+    margin-inline-end: 0rem;
+}
+.time-to{
+    margin-left: 0rem;
+    margin-top: 4.5rem;
+    width: 12rem;
+}

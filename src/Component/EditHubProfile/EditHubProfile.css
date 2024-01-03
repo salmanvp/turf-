@@ -1,0 +1,15 @@
+.EditHubProfile{
+    height: auto;
+    width:90rem;
+    margin-left: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}
+
+.EditProfile{
+    background-color:rgb(5,185,97);
+    color: white;
+    height: 3rem;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+}

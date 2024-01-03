@@ -1,0 +1,36 @@
+
+
+.register-card{
+
+    height: 30rem;
+    width: 35rem;
+    background-color: rgb(236, 228, 228);
+    margin-left:22rem;
+    margin-top: 3rem;
+}
+
+.register{
+    margin-left: 14rem;
+    padding-top: 2rem;
+}
+
+.button1{
+    background-color:rgb(5,185,97);
+    color: aliceblue;
+    margin-top: 1rem;
+    height: 2.5rem;
+    border-radius: 0.4rem;
+    outline: none;
+    border: none;
+    margin-left: 13rem;
+    width: 8rem;
+}
+
+.button1:hover{
+    color: black;
+    background-color: aliceblue;
+}
+
+
+
+

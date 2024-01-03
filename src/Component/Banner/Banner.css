@@ -1,0 +1,56 @@
+.Banner-image{
+    background-image: url(https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+
+.qoute-content{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 140px;
+    padding-left: 15px;
+    width:350px;
+}
+
+.qoute-persone-name{
+    color: white;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 100;
+    padding-left: 15px;
+}
+
+.Button{
+    display: flex;
+    color: beige;
+    margin-top: 1rem;
+    padding-left: 18px;
+
+}
+
+.button-explore{
+    color:white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 15px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(51, 51, 51, .5);
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+.button-explore:hover{
+    color: black;
+    background-color: #e6e6e6;
+}
+
+.Banner{
+    margin-block-start: -1.5rem;
+}

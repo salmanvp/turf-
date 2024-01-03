@@ -1,0 +1,45 @@
+.Profile{
+    height: auto;
+    width:85rem;
+    margin-left: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}
+
+.AddProfile{
+    background-color:rgb(5,185,97);
+    color: white;
+    height: 3rem;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+}
+
+.input-label{
+    height: 3rem;
+    width: 24rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    background-color: rgb(236, 236, 236);
+    border: none;
+    outline: none;
+    margin-left: 16rem;
+    padding-left: 1rem;
+}
+.css-ahj2mt-MuiTypography-root{
+    color: black;
+    font-weight: 600!important;
+}
+
+.submit-turf{
+    background-color:rgb(5,185,97);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 0.5rem;
+    width: 15rem;
+    height: 2rem;
+    margin-left: 33rem;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    margin-block-end: 1rem;
+}

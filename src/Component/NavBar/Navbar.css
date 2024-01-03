@@ -1,0 +1,25 @@
+.Navbar{
+    
+}
+
+.Register{
+    position: fixed;
+    right: 300px;
+    cursor: pointer;
+}
+
+.Login{
+    position: fixed;
+    right: 200px;
+    cursor: pointer;
+}
+
+
+.create1{
+    cursor: pointer;
+}
+
+.List{
+    right: 800px;
+    cursor: pointer;
+}

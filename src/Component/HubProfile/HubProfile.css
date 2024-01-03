@@ -1,0 +1,46 @@
+.Hub{
+    height: 40rem;
+    width:90rem;
+    margin-left: 2rem;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}
+.HubProfile{
+    background-color:rgb(5,185,97);
+    color: white;
+    height: 3rem;
+}
+.soccer{
+   display: flex;
+}
+
+.edit_button{
+    height: 2rem;
+    border-color: rgb(5,185,97);
+    color: rgb(5,185,97) ;
+    border-radius: 0.5rem;
+    background-color: white;
+    margin-left: 60rem;
+    margin-top: 1rem;
+}
+.edit_button:hover{
+    background-color:rgb(5,185,97) ;
+    color: white;
+}
+
+.Hub-address-table{
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.2);
+    height: 17rem;
+    width:33rem;
+    margin-top: 2rem;
+}
+
+.Hub-address{
+    margin-left: 3rem;
+}
+
+.hub-court-table{
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.2);
+    height: 10rem;
+    width:33rem;
+    margin-top: 2rem;
+}

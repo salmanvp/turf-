@@ -1,0 +1,31 @@
+.Pregisterbg{
+    height: 30rem;
+    width: 35rem;
+    background-color: rgb(236, 228, 228);
+    margin-left:22rem;
+    margin-top: 3rem;
+ }
+ 
+
+ .partnerregister{
+    margin-left: 10rem;
+    padding-top: 2rem;
+}
+.Partner{
+    margin-left: 3.5rem;
+    margin-top: 4rem;
+    margin-block-start: 0rem;
+}
+
+
+.Partnerbutton{
+    background-color:rgb(5,185,97);
+    height: 2rem;
+    width: 6rem;
+    color:white;
+    border: none;
+    outline: none;
+    border-radius: 1rem;
+    margin-left: 14rem;
+    margin-top: 1rem;
+}
